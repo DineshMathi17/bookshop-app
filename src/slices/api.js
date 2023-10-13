@@ -1,4 +1,4 @@
-export const url = "http://localhost:7000";
+export const url = "https://bookshop-back.onrender.com";
 
 export const setHeaders = () => {
   const headers = {
